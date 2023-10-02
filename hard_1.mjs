@@ -1,1 +1,2 @@
-console.log("Hello wprld");
+console.log("Hello world");
+console.log("regel 2");
